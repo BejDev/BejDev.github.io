@@ -1,0 +1,10 @@
+# Site settings
+title: AimonaStudio
+description: Welcome to Aimona
+keywords: Aimona, Game
+author: Himself65
+baseurl: "/"
+url: "https://aimonastudio.github.io/" 
+gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
+paginate: 3
+google_analytics: 'UA-110549153-2'
