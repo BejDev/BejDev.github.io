@@ -5,5 +5,6 @@ keywords: BejDev, Game
 author: All BejDev Members
 baseurl: "/"
 url: "https://bejdiv.github.io/" 
+slogan: make something fun
 gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
 paginate: 3
